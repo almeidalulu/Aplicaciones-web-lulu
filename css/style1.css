@@ -1,0 +1,30 @@
+body{
+  font-family:Arial;
+  font-size: 14px;
+  background:url('http://2.bp.blogspot.com/-cFVxsHASQNI/TrxJlBgWJnI/AAAAAAAAAVE/Kk9n6bcENyc/s1600/fondo+azul.jpg');
+
+  
+  
+}
+h1{
+	color:#FF7256;
+}
+.contenedor{
+	margin:100px;
+	margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+	margin-bottom: 0px;
+}
+.colo{
+	margin:auto;
+	top: 100px;
+	text-align:center;
+	width: 90%;
+	height: 400px; 
+	
+	}
+footer{
+	color:#FF7256;
+	text-align:center;
+}

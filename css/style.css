@@ -1,0 +1,11 @@
+body{
+  font-family:TIMES NEW ROMAN;
+  font-size: 14px;
+  background-image: url('http://www.fondos7.net/wallpaper-original/wallpapers/fondo-celeste-oscuro-6269.jpg');
+  background-size:100%;
+}
+
+#chart{margin-top:1em;
+	top: 100px;
+	text-align:center;
+}
